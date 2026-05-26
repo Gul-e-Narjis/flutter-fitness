@@ -1,0 +1,94 @@
+# ==============================
+# Flutter/Dart
+# ==============================
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+.pub-cache/
+
+# iOS/Android generated
+**/GeneratedPluginRegistrant.*
+*.iml
+
+# ==============================
+# Android
+# ==============================
+android/.gradle/
+android/app/debug.keystore
+android/app/profile
+android/app/release
+android/key.properties
+
+# Gradle files
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ==============================
+# iOS
+# ==============================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+
+# CocoaPods
+**/Pods/
+
+# ==============================
+# MacOS
+# ==============================
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/xcuserdata/
+
+# ==============================
+# Windows
+# ==============================
+windows/flutter/ephemeral/
+windows/CMakeFiles/
+windows/runner/Debug/
+windows/runner/Release/
+
+# ==============================
+# Linux
+# ==============================
+linux/flutter/ephemeral/
+linux/build/
+
+# ==============================
+# Web
+# ==============================
+web/.dart_tool/
+web/build/
+
+# ==============================
+# IDEs
+# ==============================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ==============================
+# Logs & OS files
+# ==============================
+*.log
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Coverage
+# ==============================
+coverage/
